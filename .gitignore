@@ -2,6 +2,8 @@
 *.tfstate
 *.tfstate.*
 *.tfvars
+tfplan
+tfplan.binary
 *.tfplan
 tfplan.json
 crash.log
